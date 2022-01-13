@@ -8,7 +8,7 @@ I. Úvod do testovania softvéru
 II. Unit testing - Jednotkové testy  
 III. Funkčné UI testovanie  
 
-## :heavy_check_mark: Využitie Automatizovaného Testovanie Softvéru
+## :heavy_check_mark: Využitie Automatizovaného Testovania Softvéru
 1. **Webové aplikácie**
 2. Mobilné (web) aplikácie
 3. Jednotkové testovanie
