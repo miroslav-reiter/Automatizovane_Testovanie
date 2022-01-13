@@ -1,0 +1,39 @@
+{
+  "id": "9d4d6f2c-dbf2-492e-9217-a9173f506dcc",
+  "version": "2.0",
+  "name": "PGS.sk",
+  "url": "https://www.google.sk",
+  "tests": [{
+    "id": "384488c7-880d-4353-8caa-86e5d24b773c",
+    "name": "TC_001_Hladanie_Collectorky",
+    "commands": [{
+      "id": "123a0def-c291-4d4b-9999-b8bbb13f0061",
+      "comment": "",
+      "command": "open",
+      "target": "https://www.pgs.sk/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8b51facc-7254-4248-8ac5-8b04fec88f5c",
+      "comment": "",
+      "command": "open",
+      "target": "https://www.utest.com/",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "0936098e-3bbd-44ec-ba81-400fa37aea0c",
+    "name": "TC_002_Hladanie_Hry",
+    "commands": []
+  }],
+  "suites": [{
+    "id": "3b8e1820-4a3a-40fe-afc8-30f077600907",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["https://www.pgs.sk/"],
+  "plugins": []
+}
