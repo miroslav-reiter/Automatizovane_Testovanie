@@ -23,7 +23,7 @@ III. Funkčné UI testovanie
 4. [**Support Google** - Prístup do Google Analytics Demo Účtu](https://support.google.com/analytics/answer/6367342?hl=sk#zippy=%2Cobsah-tohto-článku)
 5. [**Google Analytics** - Testovací Účet pre Merchandise Store](https://analytics.google.com/analytics/web/#/report/visitors-overview/a54516992w87479473p92320289/)
 6. [**Google Merchandise Store** - Eshop Google](https://shop.googlemerchandisestore.com/)
-### ✔️ Nástroje pre Cross-platform testovanie pre testerov
+### 🧰 Nástroje pre Cross-platform testovanie pre testerov
 1. [**BrowserStack** - Desktop + Mobile appky](https://www.browserstack.com/)
 2. [**BrowserStack Dashboard** - Automatizované testovanie naprieč platformami](https://automate.browserstack.com/dashboard/v2/quick-start/get-started#run-sample-build)
 3. [**Anaconda + Jupyter Python** - Automatizované testovanie Python](https://www.anaconda.com/products/individual)
