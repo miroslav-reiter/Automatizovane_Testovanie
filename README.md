@@ -14,3 +14,18 @@ III. Funkčné UI testovanie
 3. Jednotkové testovanie
 4. Funkčné testovanie
 5. Konverzia testov do Javy/C#/Python/Ruby
+
+## 📚 Dôležité zdroje
+### Štatistické a analytické nástroje pre testerov
+1. [Statista - Celosvetové štatistiky](https://www.statista.com/)
+2. [Statista - Štatistiky využívania prehliadačov](https://www.statista.com/statistics/272697/market-share-desktop-internet-browser-usa/)
+3. [Statcounter - Podiel desktopových prehliadačov na trhu v Európe](https://gs.statcounter.com/browser-market-share/desktop/europe)
+4. [Support Google - Prístup do Google Analytics Demo Účtu](https://support.google.com/analytics/answer/6367342?hl=sk#zippy=%2Cobsah-tohto-článku)
+5. [Google Analytics - Testovací Účet pre Merchandise Store](https://analytics.google.com/analytics/web/#/report/visitors-overview/a54516992w87479473p92320289/)
+6. [Google Merchandise Store - Eshop Google](https://shop.googlemerchandisestore.com/)
+### Nástroje pre Cross-platform testovanie pre testerov
+1. [BrowsterStack - Desktop + Mobile appky](https://www.browserstack.com/)
+2. [BrowsterStack Dashboard - Automatizované testovanie naprieč platformami](https://automate.browserstack.com/dashboard/v2/quick-start/get-started#run-sample-build)
+3. [Anaconda + Jupyter Python - Automatizované testovanie Python](https://www.anaconda.com/products/individual)
+4. [Selenium IDE - Doplnok na UI Automatizované testovanie](https://chrome.google.com/webstore/detail/selenium-ide)
+5. [Opera Install Chrome Extensions - Doplnok pre inštalácia Chrome doplnkov do Opery](https://addons.opera.com/sk/extensions/details/install-chrome-extensions/)
